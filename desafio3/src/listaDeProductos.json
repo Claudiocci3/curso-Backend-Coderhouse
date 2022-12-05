@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Short de Argentina",
+    "description": "Short adidas",
+    "price": 3000,
+    "thumbnail": "Sin imagen",
+    "stock": 100,
+    "code": 1978
+  },
+  {
+    "id": 2,
+    "title": "Camiseta",
+    "description": "camiseta de argentina",
+    "price": 5000,
+    "thumbnail": "Sin imagen",
+    "stock": 10,
+    "code": 1986
+  },
+  {
+    "id": 3,
+    "title": "Mate",
+    "description": "Mate stanley",
+    "price": 4000,
+    "thumbnail": "Sin imagen",
+    "stock": 20,
+    "code": 1990
+  },
+  {
+    "id": 4,
+    "title": "camiseta",
+    "description": "camiseta de brasil",
+    "price": 100,
+    "thumbnail": "Sin imagen",
+    "stock": 500,
+    "code": 2021
+  },
+  {
+    "id": 5,
+    "title": "Zapatillas",
+    "description": "Zapatillas nike",
+    "price": 15000,
+    "thumbnail": "Sin imagen",
+    "stock": 30,
+    "code": 1254
+  },
+  {
+    "id": 6,
+    "title": "Mochila",
+    "description": "Mochila Nike",
+    "price": 4548,
+    "thumbnail": "Sin imagen",
+    "stock": 40,
+    "code": 4587
+  },
+  {
+    "id": 7,
+    "title": "botines nike",
+    "description": "Botine de futbol nike",
+    "price": 15000,
+    "thumbnail": "Sin imagen",
+    "stock": 40,
+    "code": 6551
+  },
+  {
+    "id": 8,
+    "title": "futbol",
+    "description": "futbol del mundial",
+    "price": 18000,
+    "thumbnail": "Sin imagen",
+    "stock": 70,
+    "code": 3247
+  },
+  {
+    "id": 9,
+    "title": "musculosa",
+    "description": "musculosa lagers",
+    "price": 35000,
+    "thumbnail": "Sin imagen",
+    "stock": 50,
+    "code": 6541
+  },
+  {
+    "id": 10,
+    "title": "pantalon",
+    "description": "pantalon de vestir",
+    "price": 527,
+    "thumbnail": "Sin imagen",
+    "stock": 45,
+    "code": 6571
+  }
+]
